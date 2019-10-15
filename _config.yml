@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: leeboer/leeboer.github.io
 github_url: https://github.com/leeboer
 url: https://leeboer.github.io
-#enforce_ssl: ityouknow.com
+enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
